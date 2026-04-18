@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">App5 Signal Guard</string>
+    <string name="status_idle">Siap, minta izin lalu mulai</string>
+    <string name="status_running">Deteksi berjalan</string>
+    <string name="permissions_button">Minta Izin</string>
+    <string name="start_button">Mulai Deteksi</string>
+    <string name="permissions_ready">Izin sensor siap</string>
+    <string name="permissions_missing">Izin belum lengkap</string>
+    <string name="detail_placeholder">Risiko, kamera, dan alasan akan muncul di sini.</string>
+    <string name="signal_placeholder">Kekuatan Wi‑Fi, BLE, dan GSM akan tampil di sini.</string>
+    <string name="status_template">Status: %1$s</string>
+    <string name="detail_template">Risiko: %1$d%%\nKamera: %2$s | Looming: %3$s\nAlasan: %4$s</string>
+    <string name="signal_template">Wi‑Fi terkuat: %1$ddBm (%2$d jaringan)\nBLE terkuat: %3$ddBm (%4$d perangkat)\nGSM/sel: %5$ddBm | Perubahan: %6$s</string>
+</resources>
